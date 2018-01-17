@@ -1,0 +1,7 @@
+
+[ uuid(1EE05F27-0DBA-4343-BEA8-6B6E5F309F71), version(1.0) ]
+library CZURDispatch
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
